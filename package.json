@@ -1,0 +1,19 @@
+{
+  "name": "kuroro",
+  "version": "0.0.2",
+  "description": "simple web framework",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongxuanlee/kuroro.git"
+  },
+  "author": "hongxuanlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongxuanlee/kuroro/issues"
+  },
+  "homepage": "https://github.com/hongxuanlee/kuroro#readme"
+}
